@@ -9,6 +9,13 @@
 Prepare S&P 500 stocks data to find TOP 10 most traded stocks
 Analyse stock data to find best performing stocks and recommend which stocks to buy
 
+# We'll be answering the following questions along the way:
+
+- What was the change in price of the stock over time?
+- What was the daily return of the stock on average?
+- What was the moving average of the various stocks?
+- What was the correlation between different stocks'?
+
 # Tools/technologies used
 
 Python
